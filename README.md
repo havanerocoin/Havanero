@@ -6,7 +6,6 @@ This is the reference code for [Havanero](http://havanero.world/) cryptocurrency
 * Source code repository: [Havanero GitHub](https://github.com/havanerocoin/Havanero)
 * Announcement thread: not yet
 * Twitter: [Havanero Twitter](https://twitter.com/Havanerocoin)
-* Discord: [Havanero Discord](https://discord.gg/5EqCrK)
 * Whitepaper: not yet
 * Block explorer: not yet
 
